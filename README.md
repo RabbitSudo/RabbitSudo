@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 
 ![gif](./滑稽头像.jpg)
+![gif](./青海摇.gif)
