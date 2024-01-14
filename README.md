@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![gif](./滑稽头像.jpg)
+<p align="center">
+    <img src="https://cdn.nlark.com/yuque/0/2023/gif/25913285/1677418126549-8885bba4-9540-46f7-8a2d-72f97000469e.gif">
+</p>
 
-![gif](https://cdn.nlark.com/yuque/0/2023/gif/25913285/1677418126549-8885bba4-9540-46f7-8a2d-72f97000469e.gif)
 ```c
 //想多了全是问题，做多了全是答案
 #include <stdio.h>
