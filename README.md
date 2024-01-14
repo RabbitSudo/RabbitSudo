@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 <p align="center">
     <img src="https://cdn.nlark.com/yuque/0/2023/gif/25913285/1677418126549-8885bba4-9540-46f7-8a2d-72f97000469e.gif">
 </p>
