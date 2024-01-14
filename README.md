@@ -2,9 +2,15 @@
 
 
 <video>
-        <source src="https://vdn3.vzuu.com/SD/0c734e16-238e-11eb-972c-bab2c6457e94.mp4?disable_local_cache=1&bu=078babd7&c=avc.0.0&f=mp4&expiration=1705240298&auth_key=1705240298-0-0-f44e948fd92ecaf02e9dce24ce79c279&v=tx&pu=078babd7" type="video/mp4">
+        <source src="video.mp4" type="video/mp4">
 </video>
 
+
+<video width="640" height="360" controls>
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+        
+</video>
 
 
 
