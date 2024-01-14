@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <pre>
-    <p align="center" style="font-size">ERROE</p>
+    <p align="center" style="font-size:18px;">ERROE</p>
 </pre>
 ![gif](./滑稽头像.jpg)
 ![gif](./青海摇.gif)
