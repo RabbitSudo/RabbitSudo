@@ -12,7 +12,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("FoxiP@ssW0rd");
+    printf("鸡你太美！北北~");
     return 0;
 }
 //一位不晓得铁山靠的CTF选手不是好的蔡徐坤
