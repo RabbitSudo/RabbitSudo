@@ -8,7 +8,7 @@
 
 
 ```c
-//想多了全是问题，做多了全是答案
+//Thinking too much leads to all problems. Doing too much leads to all answers.
 #include <stdio.h>
 int main()
 {
