@@ -17,5 +17,13 @@ int main()
 }
 //一位不晓得铁山靠的CTF选手不是好的蔡徐坤
 ```
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,workers,twitter,git,redhat,linux,kali,instagram,html,js,css,gmail,gitlab,github,cloudflare,docker&perline=18)](https://skillicons.dev)瞎几把乱玩罢了
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,workers,twitter,git,redhat,linux,kali,instagram,html,js,css,gmail,gitlab,github,cloudflare,docker&perline=18)](https://skillicons.dev)
+# My Future
+<table>
+  <tr>
+    <td>🥰恭喜您成为第</td>
+    <td><img src="https://profile-counter.glitch.me/RabbitSudo/count.svg" alt="" /></td>
+    <td>位访客，感谢您的关注和支持~😍</td>
+  </tr>
+</table>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabbitSudo)](https://github.com/anuraghazra/github-readme-stats) ![gif](./青海摇.gif) 
