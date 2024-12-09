@@ -1,10 +1,8 @@
 ### Hi there: <img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" width="4%">
-# My 鸽鸽
 <p align="center">
     <img src="https://cdn.nlark.com/yuque/0/2023/gif/25913285/1677418126549-8885bba4-9540-46f7-8a2d-72f97000469e.gif">
 </p>
 <p align="center">练习时长两年半的个人练习坤</p>
-
 
 
 ```c
