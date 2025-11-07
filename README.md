@@ -21,7 +21,8 @@ int main()
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/RabbitSudo/count.svg" alt="" /></td>
+    <!--<td><img src="https://profile-counter.glitch.me/RabbitSudo/count.svg" alt="" /></td>-->
+    <td>我~不~到~</td>
     <td>位访客，感谢您的关注和支持~💕</td>
   </tr>
 </table>
