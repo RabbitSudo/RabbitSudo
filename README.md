@@ -15,6 +15,9 @@ int main()
 }
 //一位不晓得铁山靠的CTF选手不是好的蔡徐坤
 ```
+# 牛马小队
+[![My Skills](https://raw.githubusercontent.com/jazzenchen/agent-hud-open/main/docs/videos/agent-bots-row-dark.webp)](https://raw.githubusercontent.com/jazzenchen/agent-hud-open/main/docs/videos/agent-bots-row-dark.webp)
+
 # My 瞎几把乱玩
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,workers,twitter,git,redhat,linux,kali,instagram,html,js,css,gmail,gitlab,github,cloudflare,docker,redis,php,mysql,java,python,md,idea,bash,spring,raspberrypi,debian,discord,nginx,sublime,ubuntu&perline=18)](https://skillicons.dev)
 # My Future
